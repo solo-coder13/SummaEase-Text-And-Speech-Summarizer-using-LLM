@@ -1,6 +1,7 @@
 **Empower users with succinct, accessible summaries of text and speech content through the power of language models.**
 # SummaEase: Text and Speech Summarizer using Large Language Models
 ![summ](https://github.com/solo-coder13/Text-and-Speech-Summarizer-using-LLM/assets/113525473/c00aac40-9e0d-4414-862b-921fd3d994a4)
+
 This project aims to develop a comprehensive summarization system that can efficiently extract key insights and valuable information from both written text and spoken language inputs. The system utilizes state-of-the-art large language models (LLMs) and natural language processing (NLP) techniques to generate high-quality summaries. We are developing a groundbreaking system that leverages the potential of large language models (LLMs) to revolutionize how people interact with information. Our key objectives are:
 
 **1. Generate concise, accurate summaries:**

@@ -31,18 +31,13 @@ By achieving these objectives, we aim to create a world where information is mor
 
 Let \( D \) be the document to be summarized, and let \( S \) be the set of sentences in \( D \). The objective is to select a subset \( S' \subseteq S \) that maximizes the information content of the summary, subject to a length constraint.
 
-\[ \max_{S'} \sum_{s \in S'} \text{Score}(s) \]
-\[ \text{Subject to:} \sum_{s \in S'} \text{Length}(s) \leq \text{MaxLength} \]
-
 ### Abstractive Summarization
 
 Let \( D \) be the document to be summarized, and let \( S' \) be the summary to be generated. The objective is to generate a summary \( S' \) that maximizes the semantic similarity to the original document.
 
-\[ S' = \text{argmax}_{S'} \text{Similarity}(D, S') \]
-
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/text-speech-summarizer.git`
+1. Clone the repository: `git clone https://github.com/solo-coder13/Text-and-Speech-Summarizer-using-LLM.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage

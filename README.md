@@ -4,20 +4,19 @@
 
 This project aims to develop a comprehensive summarization system that can efficiently extract key insights and valuable information from both written text and spoken language inputs. The system utilizes state-of-the-art large language models (LLMs) and natural language processing (NLP) techniques to generate high-quality summaries. We are developing a groundbreaking system that leverages the potential of large language models (LLMs) to revolutionize how people interact with information. Our key objectives are:
 
-**1. Generate concise, accurate summaries:**
+**1. AI-powered Summarization:**
 
-* Employ advanced LLM capabilities to extract the meaning and key points from text and speech data.
-* Create summaries that are significantly shorter than the original content while retaining crucial information.
-* Ensure summaries are factually accurate and unbiased, reflecting the core content without personal opinions or interpretations.
+* **Extract key points:** Advanced AI digs deep into text and speech to uncover crucial meaning.
+* **Shorter, sharper summaries:** Get to the heart of information quickly, retaining essential details.
+* **Factual and unbiased:** Summaries accurately reflect the original content, without personal opinions.
 
-**2. Enhance information accessibility and efficiency for all:**
+**2. Information for Everyone:**
 
-* Address the ever-growing information overload by providing a tool to effortlessly grasp the essence of content.
-* Cater to diverse users' needs, including those seeking personal knowledge, efficient media consumption, educational advancement, or improved accessibility due to disabilities.
-* Foster an inclusive, equitable information landscape where everyone can readily access and understand essential details.
+* **Break free from overload:** Effortlessly grasp the essence of content, avoiding information fatigue.
+* **Diverse needs met:** Whether for personal learning, media consumption, education, or accessibility, summaries cater to all.
+* **Inclusive information landscape:** Foster an equitable environment where everyone can access and understand key details.
 
 By achieving these objectives, we aim to create a world where information is more manageable, digestible, and readily accessible to everyone. This project has the potential to transform how we consume, learn from, and interact with information, empowering individuals and unlocking new possibilities for knowledge exploration and understanding.
-
 
 ## Features
 
@@ -26,15 +25,8 @@ By achieving these objectives, we aim to create a world where information is mor
 - **Personalized Summaries:** Customizable summarization preferences.
 - **User-Friendly Interface:** Easy input of text or speech content.
 
-## Mathematical Formulation
-
-### Extractive Summarization
-
-Let \( D \) be the document to be summarized, and let \( S \) be the set of sentences in \( D \). The objective is to select a subset \( S' \subseteq S \) that maximizes the information content of the summary, subject to a length constraint.
-
-### Abstractive Summarization
-
-Let \( D \) be the document to be summarized, and let \( S' \) be the summary to be generated. The objective is to generate a summary \( S' \) that maximizes the semantic similarity to the original document.
+## Implementation
+![Screenshot 2024-02-25 220808](https://github.com/solo-coder13/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/113525473/3043822e-c6e7-4c47-8aa1-d757587a7888)
 
 ## Installation
 

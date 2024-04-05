@@ -28,6 +28,8 @@ By achieving these objectives, we aim to create a world where information is mor
 ## Implementation
 ![Screenshot 2024-02-25 220808](https://github.com/solo-coder13/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/113525473/3043822e-c6e7-4c47-8aa1-d757587a7888)
 
+## Design Diagram
+![S2T drawio (1)](https://github.com/solo-coder13/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/91939200/adb79a60-c6e3-49ed-9b38-a7a89aadd620)
 
 ## Installation
 

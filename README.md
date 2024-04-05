@@ -28,6 +28,7 @@ By achieving these objectives, we aim to create a world where information is mor
 ## Implementation
 ![Screenshot 2024-02-25 220808](https://github.com/solo-coder13/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/113525473/3043822e-c6e7-4c47-8aa1-d757587a7888)
 
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/solo-coder13/Text-and-Speech-Summarizer-using-LLM.git`

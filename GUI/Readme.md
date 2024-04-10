@@ -1,6 +1,6 @@
-# LinguoCheck
+# SummaEase
 
-LinguoCheck is a NLP (Natural Language Processing) project designed to perform various linguistic checks and corrections. It utilizes Python for modeling, incorporating the TextBlob library for NLP tasks. Additionally, it includes a Flask backend for the front end developed with HTML and CSS. It also uses Bootstrap for easing up the development work.
+SummaEase is a NLP (Natural Language Processing) project designed to perform various linguistic checks and corrections. It utilizes Python for modeling, incorporating the TextBlob library for NLP tasks. Additionally, it includes a Flask backend for the front end developed with HTML and CSS. It also uses Bootstrap for easing up the development work.
 
 ## Features
 
@@ -11,7 +11,7 @@ LinguoCheck is a NLP (Natural Language Processing) project designed to perform v
 ## Usage
 
 1. **Clone the Repository:**
-   `git clone https://github.com/AbhishekJ24/LinguoCheck-NLP-Grammar-Checker.git`
+   `git clone https://github.com/AbhishekJ24/Summaease.git`
    `cd linguocheck`
 
 2. **Install Dependencies:**

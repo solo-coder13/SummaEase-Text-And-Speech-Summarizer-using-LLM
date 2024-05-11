@@ -15,6 +15,8 @@ This project aims to develop a comprehensive summarization system that can effic
 * **Break free from overload:** Effortlessly grasp the essence of content, avoiding information fatigue.
 * **Diverse needs met:** Whether for personal learning, media consumption, education, or accessibility, summaries cater to all.
 * **Inclusive information landscape:** Foster an equitable environment where everyone can access and understand key details.
+![projectexpofinal](https://github.com/solo-coder13/SummaEase-Text-And-Speech-Summarizer-using-LLM/assets/113525473/76bb076c-492c-4cd1-a970-ab86e198721b)
+
 
 By achieving these objectives, we aim to create a world where information is more manageable, digestible, and readily accessible to everyone. This project has the potential to transform how we consume, learn from, and interact with information, empowering individuals and unlocking new possibilities for knowledge exploration and understanding.
 
